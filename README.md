@@ -1,4 +1,4 @@
 ipscan
 ======
 
-Some script using for nmap.
+Some scripts using for nmap.
